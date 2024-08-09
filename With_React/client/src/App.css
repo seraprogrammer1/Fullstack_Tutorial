@@ -12,10 +12,11 @@ html {
 body {
   height: 100%;
   width: 100%;
-  background-color: white;
+  background-color: black;
   display: flex;
   flex-direction: column;
   justify-content: center;
+  color: white;
 }
 
 h1 {
